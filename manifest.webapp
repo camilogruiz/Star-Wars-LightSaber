@@ -1,0 +1,13 @@
+    {
+      "version": "0.0.01",
+      "name": "Star Wars Saber",
+      "launch_path": "index.html",
+      "description": "Simple application saber ",
+      "icons": {
+      },
+      "developer": {
+        "name": "Alejandro Oviedo,"
+      },
+      "installs_allowed_from": ["*"],
+      "default_locale": "en"
+    }
